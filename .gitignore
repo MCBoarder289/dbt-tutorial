@@ -1,4 +1,5 @@
 dbt-user-creds.json
 .python-version
 .idea/
-
+.DS_Store
+logs/
